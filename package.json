@@ -1,0 +1,25 @@
+{
+  "name": "jwt-with-express",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.16.4",
+    "jsonwebtoken": "^8.5.0",
+    "joi": "^13.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AmirMustafa/jwt-Authentication-with-Express-JS.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AmirMustafa/jwt-Authentication-with-Express-JS/issues"
+  },
+  "homepage": "https://github.com/AmirMustafa/jwt-Authentication-with-Express-JS#readme"
+}
