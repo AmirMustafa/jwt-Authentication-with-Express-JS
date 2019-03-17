@@ -5,8 +5,9 @@
   "main": "app.js",
   "dependencies": {
     "express": "^4.16.4",
-    "jsonwebtoken": "^8.5.0",
-    "joi": "^13.1.0"
+    "express-passport": "^0.1.0",
+    "joi": "^13.1.0",
+    "jsonwebtoken": "^8.5.0"
   },
   "devDependencies": {},
   "scripts": {
