@@ -28,8 +28,6 @@ app.get('/api', (req, res) => {
 
 ```
 
-Image
-
 <br>
 
 2. Create token using jwt Auth and passing the sample user using POST route:
@@ -109,7 +107,18 @@ app.listen(port, () => console.log('Listening on port 5000'));
 
 ```
 
+## Screenshots:
 
+![Screenshot of jwt Auth API](https://user-images.githubusercontent.com/15896579/54494727-2e2be600-48ff-11e9-9592-bd5f6cbe6ddd.png?raw=true "Screenshot of JwtAuth API")
 
+![Screenshot of jwt Auth API](https://user-images.githubusercontent.com/15896579/54494728-371cb780-48ff-11e9-95e8-5be370932fa4.png?raw=true "Screenshot of JwtAuth API")
 
-```
+![Screenshot of jwt Auth API](https://user-images.githubusercontent.com/15896579/54494731-3dab2f00-48ff-11e9-8c36-d24a6c910870.png?raw=true "Screenshot of JwtAuth API")
+
+![Screenshot of jwt Auth API](https://user-images.githubusercontent.com/15896579/54494734-40a61f80-48ff-11e9-8f85-3e99d1f3df7e.png?raw=true "Screenshot of JwtAuth API")
+
+![Screenshot of jwt Auth API](https://user-images.githubusercontent.com/15896579/54494736-47349700-48ff-11e9-8f91-9d0b02145435.png?raw=true "Screenshot of JwtAuth API")
+
+![Screenshot of jwt Auth API](https://user-images.githubusercontent.com/15896579/54494739-4ac81e00-48ff-11e9-8bf5-46ab533db449.png?raw=true "Screenshot of JwtAuth API")
+
+![Screenshot of jwt Auth API](https://user-images.githubusercontent.com/15896579/54494741-4dc30e80-48ff-11e9-9295-25b973f11f6e.png?raw=true "Screenshot of JwtAuth API")
